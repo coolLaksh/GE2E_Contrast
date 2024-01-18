@@ -1,1 +1,3 @@
 # GE2E_Contrast
+
+This repository presents an implementation of a generalized end-to-end loss function designed for training neural networks. The loss function, encapsulated in the GeneralizedEndToEndLoss module, streamlines the training process by amalgamating multiple objectives into a singular metric. Ideal for tasks with diverse subgoals contributing to the overarching objective, the implementation provides a flexible and customizable solution. Users can easily integrate the loss function into their training loops, adjusting parameters to suit the specific requirements of their tasks. Contributions and feedback from the open-source community are encouraged, fostering a collaborative environment for further enhancements and refinements.
